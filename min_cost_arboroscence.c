@@ -1,21 +1,6 @@
 /*#######################################
 
 Name        : Ish Rajesh Shelley
-Entry No.   : 2018EEB1153
-Course      : CS201
-Assignment  : Lab04 - Arboresence
-
-I have done this assignment on my own .
-I have marked the time stamp using gettimeofday()
-
-The sample test cases given by sir work well .
-Where as some of the queries do not work well in cases where 
-the node in unreachable or double cycle is detected in one iteration . 
-
-
-Tested test cases are given at the end .
-
-
 ###########################################*/
 
 
